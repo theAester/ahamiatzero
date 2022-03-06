@@ -1,0 +1,1 @@
+print("ahamiat=0")
