@@ -1,0 +1,1 @@
+print('ahammiat=0');
