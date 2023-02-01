@@ -13,6 +13,6 @@ movq $txt, %rsi
 syscall
 
 popq %rbp
-movq $12, %rdi
+movq $0, %rdi
 movq $60, %rax
 syscall

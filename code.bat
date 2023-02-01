@@ -1,0 +1,1 @@
+echo "ahamiat=0"
