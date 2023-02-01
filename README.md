@@ -7,15 +7,9 @@ in every language
 * verilog
 * haskell
 * ruby
-* Go
-* php
-* bash
 * vb script
-* batch
-* pascal
 * swift
 * objective C
-* kotlin
 * assembly (NASM, MIPS, IBM, ARM,... (anything other than GNU/LINUX))
 
 And any other language imaginable!!
