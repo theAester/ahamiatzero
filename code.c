@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-	printf("=0\n");
+	printf("ahamiat=0\n");
 	return 0;
 }
